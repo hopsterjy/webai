@@ -10,5 +10,9 @@
   {
     "name": "Venture",
     "url": "http://feeds.slashgear.com/slashgear"
+  },
+  {
+    "name": "Verge",
+    "url": "http://www.theverge.com/rss/full.xml"
   }
 ]
