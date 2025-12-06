@@ -1,9 +1,5 @@
 [
   {
-    "name": "TR",
-    "url": "techradar.com/rss"
-  },
-  {
     "name": "FC",
     "url": "http://www.fastcodesign.com/rss.xml"
   }
