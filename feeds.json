@@ -26,5 +26,9 @@
   {
     "name": "fc",
     "url": "http://feeds.feedburner.com/fastcompany/headlines"
+  },
+  {
+    "name": "ph",
+    "url": "http://www.producthunt.com/feed"
   }
 ]
