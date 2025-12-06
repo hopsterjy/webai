@@ -10,5 +10,9 @@
   {
     "name": "WIRED",
     "url": "https://www.wired.com/feed/rss"
+  },
+  {
+    "name": "TV",
+    "url": "theverge.com/rss/index.xml"
   }
 ]
