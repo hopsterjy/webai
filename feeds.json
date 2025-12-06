@@ -18,5 +18,9 @@
   {
     "name": "eg",
     "url": "http://www.engadget.com/rss-full.xml"
+  },
+  {
+    "name": "tc",
+    "url": "https://techcrunch.com/feed/"
   }
 ]
