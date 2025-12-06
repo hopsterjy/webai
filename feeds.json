@@ -6,5 +6,9 @@
   {
     "name": "Forbes",
     "url": "http://www.forbes.com/entrepreneurs/index.xml"
+  },
+  {
+    "name": "Venture",
+    "url": "http://feeds.slashgear.com/slashgear"
   }
 ]
