@@ -2,5 +2,9 @@
   {
     "name": "FC",
     "url": "http://www.fastcodesign.com/rss.xml"
+  },
+  {
+    "name": "Forbes",
+    "url": "http://www.forbes.com/entrepreneurs/index.xml"
   }
 ]
