@@ -2,5 +2,9 @@
   {
     "name": "ZDNET KOREA",
     "url": "https://feeds.feedburner.com/zdnetkorea/news"
+  },
+  {
+    "name": "TC",
+    "url": "https://techcrunch.com/feed/"
   }
 ]
