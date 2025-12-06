@@ -22,5 +22,9 @@
   {
     "name": "tc",
     "url": "https://techcrunch.com/feed/"
+  },
+  {
+    "name": "fc",
+    "url": "http://feeds.feedburner.com/fastcompany/headlines"
   }
 ]
