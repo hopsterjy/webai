@@ -1,9 +1,5 @@
 [
   {
-    "name": "Forbes",
-    "url": "http://www.forbes.com/entrepreneurs/index.xml"
-  },
-  {
     "name": "Verge",
     "url": "http://www.theverge.com/rss/full.xml"
   },
