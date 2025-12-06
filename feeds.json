@@ -6,5 +6,9 @@
   {
     "name": "TC",
     "url": "https://techcrunch.com/feed/"
+  },
+  {
+    "name": "WIRED",
+    "url": "https://www.wired.com/feed/rss"
   }
 ]
